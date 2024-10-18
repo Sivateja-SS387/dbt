@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: AIRFLOW
+    schema: dev
+    tables:
+      - name: BB_Raw_data
+        identifier: raw_buybox
